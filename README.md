@@ -18,8 +18,4 @@ Hi there! 👋 I'm Kavandeep Johal, I'm training to become a Full-stack Software
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kav97&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kav97&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
 
-### ✍️ Dev Quote ✍️
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 [![](https://visitcount.itsvg.in/api?id=kav97&icon=0&color=0)](https://visitcount.itsvg.in)
